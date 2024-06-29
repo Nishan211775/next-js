@@ -1,0 +1,29 @@
+/* globals.css */
+
+html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bg-[#FF6B6B] {
+    background-color: #FF6B6B;
+}
+
+.dark\:bg-[#FF4B4B] {
+    background-color: #FF4B4B;
+}
+
+.bg-green-500 {
+    background-color: #10B981;
+}
+
+.bg-yellow-500 {
+    background-color: #F59E0B;
+}
+
+.bg-red-500 {
+    background-color: #EF4444;
+}
